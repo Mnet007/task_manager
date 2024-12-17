@@ -97,7 +97,7 @@ The app follows a **clean, modern design** with the following:
 
 | Dashboard Screen            |
 |-----------------------------|
-| ![Dashboard](assets/images/dashboard.png) |
+| ![Dashboard](todo_list_app/assets/images/dashboard.png) |
 
 ---
 
